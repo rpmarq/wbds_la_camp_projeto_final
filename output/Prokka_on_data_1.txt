@@ -1,0 +1,8 @@
+organism: Clostridium clostridium botulinum strain 
+contigs: 1
+bases: 3611897
+CDS: 3172
+rRNA: 34
+repeat_region: 2
+tRNA: 79
+tmRNA: 1
