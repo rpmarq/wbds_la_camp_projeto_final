@@ -23,7 +23,7 @@ This work is published from:
 </p>
 
 
-O **objetivo** deste projeto é realizar a **anotação do genoma da bactéria Clostridium botulinum utilizando pyrodigal e Prokka**. Adicionalmente, pretende-se realizar uma busca nominal simples com intuito de encontrar genes que codifiquem para algum dos subtipos da toxina botulínica.
+O **objetivo** deste projeto é treinar a **anotação do genoma da bactéria Clostridium botulinum utilizando pyrodigal e Prokka**. Adicionalmente, pretende-se realizar uma busca nominal simples com intuito de encontrar genes que codifiquem para algum dos subtipos da toxina botulínica.
 
 - ### **Instalação**- As seguintes bibliotecas, algoritmos e banco de dados serão necessários para as análise:
 
